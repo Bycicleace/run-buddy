@@ -12,3 +12,5 @@ https://Bycicleace.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Elliott Kvamme
+
+### ©️2019 Run Buddy, Inc
